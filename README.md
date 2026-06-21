@@ -75,7 +75,7 @@ Modern QR Code Generator with support for:
 * Color Customization
 * QR History
 
-🔗 Live Demo: https://YOUR-VERCEL-LINK.vercel.app
+🔗 Live Demo: https://qrforge-pro.vercel.app/
 
 🔗 Repository: https://github.com/vineet-v22/qrforge-pro
 
@@ -143,6 +143,8 @@ Tech:
 Node.js • Python • TensorFlow • MTCNN
 
 ---
+
+### Other Projects That I have developed can be seen in my github Profile.
 
 ## 🏆 Competitive Programming
 
